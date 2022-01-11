@@ -3,7 +3,7 @@ Addition to Original Barnaba Code:
 
 This is modified version of Barnaba package to calculate RNA pseudotorsion angles eta, theta, eta', and theta'.
 
-Please refere original github here: https://github.com/srnas/barnaba
+Please refer original github here: https://github.com/srnas/barnaba
 
 Definitions of RNA pseudotorsion angles:
 =========================================
