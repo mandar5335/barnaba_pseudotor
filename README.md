@@ -40,11 +40,18 @@ Usage:
 RNA pseudotorsions can be calculated using the command line or in jupyter-notebook.
 
 command line:
+-------------
 
 ``barnaba TORSION --pseudo --pdb foo.pdb``
 
 Jupyter Notebook:
-``definitions.pseudo_angles``
+-------------------
+```
+import barnaba as bb
+from barnaba import definitions
+angle, res =  bb.eta_theta_angles("foo.pdb")
+definitions.pseudo_angles
+```
 
 This will calculate four pseudotorsions: ['eta', 'theta', 'eta_prime', 'theta_prime']
 
