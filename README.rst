@@ -38,6 +38,7 @@ then move to the barnaba directory and run the command
 Usage:
 ------------
 RNA pseudotorsions can be calculated using the command line or in jupyter-notebook.
+
 command line:
 
 ``barnaba TORSION --pseudo --pdb foo.pdb``
