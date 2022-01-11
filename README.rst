@@ -7,6 +7,9 @@
 .. image:: https://codecov.io/gh/srnas/barnaba/branch/master/graph/badge.svg
     :target: https://codecov.io/gh/srnas/barnaba
 
+Addition:
+=============
+Addition of pseudotorsion caclulation eta, theta, eta', and theta' to barnaba package (https://github.com/srnas/barnaba)
 
 Introduction
 ============
