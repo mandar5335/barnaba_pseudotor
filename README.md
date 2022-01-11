@@ -5,6 +5,10 @@ This is modified version of Barnaba package to calculate RNA pseudotorsion angle
 
 Please refer original github here: https://github.com/srnas/barnaba
 
+Following files are modified to include calculation of RNA pseudotorsion angles:
+
+```nucleic.py, functions.py, definitions.py, and commandline.py```
+
 Definitions of RNA pseudotorsion angles:
 =========================================
 Please refer 3DNA software page for definitions of pseudotorsions: https://x3dna.org/highlights/pseudo-torsions-to-simplify-the-representation-of-dna-rna-backbone-conformation
