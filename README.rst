@@ -10,6 +10,7 @@
 Addition:
 =============
 Addition of pseudotorsion caclulation eta, theta, eta', and theta' to barnaba package (https://github.com/srnas/barnaba)
+Please refer 3DNA software page for definations of pseudotorsions: https://x3dna.org/highlights/pseudo-torsions-to-simplify-the-representation-of-dna-rna-backbone-conformation
 
 Introduction
 ============
