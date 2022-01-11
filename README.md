@@ -11,8 +11,10 @@ Following files are modified to include calculation of RNA pseudotorsion angles:
 
 Definitions of RNA pseudotorsion angles:
 =========================================
-Please refer 3DNA software page for definitions of pseudotorsions: https://x3dna.org/highlights/pseudo-torsions-to-simplify-the-representation-of-dna-rna-backbone-conformation
 
+Please refer to this nice blog by Dr. Xiang-Jun Lu (x3DNA-DSSR software page) for definitions of pseudotorsions:
+
+https://x3dna.org/highlights/pseudo-torsions-to-simplify-the-representation-of-dna-rna-backbone-conformation
 
 Requirements
 -------------
