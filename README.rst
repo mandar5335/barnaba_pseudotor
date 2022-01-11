@@ -1,19 +1,13 @@
-.. image:: https://travis-ci.org/srnas/barnaba.svg
-    :target: https://travis-ci.org/srnas/barnaba
-.. image:: https://badge.fury.io/py/barnaba.svg
-    :target: https://badge.fury.io/py/barnaba
-.. image:: https://repology.org/badge/version-for-repo/macports/python:barnaba.svg
-    :target: https://repology.org/metapackage/python:barnaba
-.. image:: https://codecov.io/gh/srnas/barnaba/branch/master/graph/badge.svg
-    :target: https://codecov.io/gh/srnas/barnaba
+Addition to Original Barnaba Code:
+==================================
 
-Addition:
-=============
-Please cite original Barnaba paper. This is modified version of Barnaba package to calculate RNA pseudotorsion angles eta, theta, eta', and theta'.
+This is modified version of Barnaba package to calculate RNA pseudotorsion angles eta, theta, eta', and theta'.
 
 Please refere original github here: https://github.com/srnas/barnaba
 
-Please refer 3DNA software page for definations of pseudotorsions: https://x3dna.org/highlights/pseudo-torsions-to-simplify-the-representation-of-dna-rna-backbone-conformation
+Definitions of RNA pseudotorsion angles:
+=========================================
+Please refer 3DNA software page for definitions of pseudotorsions: https://x3dna.org/highlights/pseudo-torsions-to-simplify-the-representation-of-dna-rna-backbone-conformation
 
 
 Requirements
