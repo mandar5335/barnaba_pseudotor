@@ -68,10 +68,6 @@ References
     "The role of nucleobase interactions in RNA structure and dynamics."  
     Nucleic acids research 42.21 (2014): 13306-13314.  
 
-[2] Pinamonti, Giovanni, et al.  
-   "Elastic network models for RNA: a comparative assessment with molecular dynamics and SHAPE experiments."  
-   Nucleic acids research 43.15 (2015): 7260-7269.
-
 If you use Barnaba in your work,  please cite the following paper::
 
 	@article{bottaro2019barnaba,
